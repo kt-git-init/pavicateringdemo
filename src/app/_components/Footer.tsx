@@ -2,6 +2,7 @@ import Image from "next/image";
 import React from "react";
 import fb from "../../../public/images/fb.jpg";
 
+//Footer Component
 const Footer = () => {
   return (
     <div className="bg-[#D33527] p-8 flex-col gap-20 items-center justify-center">
